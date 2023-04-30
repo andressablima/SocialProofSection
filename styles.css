@@ -56,7 +56,15 @@ header p{
 
 .stars{
     float: left;
+    transition: all 0.5s;
+    cursor: pointer;
 }
+
+.stars:hover{
+    -webkit-filter: drop-shadow(5px 5px 5px rgba(0,0,0,.5));
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0,.5));
+}
+
 
 .vote{
     text-align: center;
@@ -120,7 +128,7 @@ h4{
 
 /* Footer frontend mentor */
 .attribution {
-    font-size: 11px;
+    font-size: 13px;
     text-align: center;
 }
 .attribution a {
