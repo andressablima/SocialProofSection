@@ -10,3 +10,8 @@ Estruturando aos poucos o CSS, começando pelos cards, que acho mais complicado 
 CSS da rating section feito junto com a responsividade do site.
 
 Ainda falta ajustes no css, manipulação das diferenças de alturas dos cards, melhoria da seção num geral.
+
+Projeto finalizado
+
+Ao final, decidi não fazer exatamente igual ao proposto pelo frontend mentor, fiz algumas pequenas alteraçoes.
+
