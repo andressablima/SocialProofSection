@@ -1,17 +1,61 @@
-# SocialProofSection
-Frontend Mentor Challenge - Social Proof Section - Mentoria Pedro Marins
+# Frontend Mentor - Social proof section solution
 
-Iniciando na Mentoria do Pedro Marins, onde temos que escolher um projeto para ser feito. 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). 
 
-Iniciando ajeitando o HTML para estruturar o CSS.
+## Table of contents
 
-Estruturando aos poucos o CSS, começando pelos cards, que acho mais complicado de manipular para em seguida ir para a parte de cima.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-CSS da rating section feito junto com a responsividade do site.
 
-Ainda falta ajustes no css, manipulação das diferenças de alturas dos cards, melhoria da seção num geral.
+## Overview
+- This is my solution to the social proof section challenge with some changes, I choose to change a little bit from what was asked and I really enjoyed the results and still need some improvements that I'll be working on. 
 
-Projeto finalizado
+### The challenge
 
-Ao final, decidi não fazer exatamente igual ao proposto pelo frontend mentor, fiz algumas pequenas alteraçoes.
+Users should be able to:
+
+- View the optimal layout for the section depending on their device's screen size
+
+### Screenshot
+
+(./images/screenshot.png>
+![.](./screenshot.jpg)
+
+
+### Links
+
+- Live Site URL: https://andressablima.github.io/SocialProofSection/
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+### What I learned
+
+Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+
+
+## Author
+
+- LinkedIn - [Andressa Lima](https://www.linkedin.com/in/andressa-lima-444240190/)
+- Frontend Mentor - [@andressablima](https://www.frontendmentor.io/profile/andressablima)
+
+
+## Acknowledgments
+
+I'm gratefull to all Pedro Marins team that asked us to do a challenge and challenge ourselves and try to improve the code.
 
