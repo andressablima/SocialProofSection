@@ -34,17 +34,18 @@ Users should be able to:
 
 ## My process
 
+I started with structuring HTML page and then making basic CSS improvements. I had some issues with flexbox, hours trying to put all together and puting all in the right places and sizes. The responsive part, where I had to go from small screeen to big screens was also challenging, try not to wrap all and change the sizes according to the screen sizes, but in the end I think it worked well. I found some issues when using firefox, but using Chrome was all good and I tried to figure it out but I need to work on it. 
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned to work better with responsive screens and flex, even though I still need to work on my flexbox and css skills. But my CSS skills were better know. 
 
 
 ## Author
