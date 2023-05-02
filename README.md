@@ -26,9 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/screenshot.png>
-![.](./screenshot.jpg)
-
+<img width="947" alt="screenshot" src="https://user-images.githubusercontent.com/113699211/235681232-02c2aef3-a684-4100-b789-a5851ec40c26.png">
 
 ### Links
 
